@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio]('../Capture.PNG')
+![Portfolio]('Capture.PNG')
 
 ## Built With
 

@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio]('https://noumanhayat.com/example.PNG')
+![Portfolio]('../Capture.PNG')
 
 ## Built With
 

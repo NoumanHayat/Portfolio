@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://raw.github.com/Meri-MG/portfolio---react/master/src/assets/port.png)
+![Portfolio]('./example.PNG')
 
 ## Built With
 
@@ -11,7 +11,7 @@
 
 ## Live Demo
 
-- [Live Demo](https://noumanhayat.com/)
+- [Live Demo](https://noumanhayat.com/example.PNG)
 
 
 # Getting Started

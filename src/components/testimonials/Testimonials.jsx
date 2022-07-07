@@ -13,7 +13,7 @@ import './testimonials.css';
 
 const Testimonials = () => {
   const testimonials = [
-    {
+    { 
       id: 1,
       link: 'https://www.linkedin.com/in/uzairali19/',
       name: 'Uzair Ali',
